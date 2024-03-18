@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Stat](https://eecs.pku.edu.cn/), [Lanzhou University](https://www.pku.edu.cn/). My research interest includes statistical machine learning, data science, convex optimization, and financial Mathematics.
-I am very fortunate to be advised by [Zhengtao Gui](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), University of Science and Technology of China. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Lanzhou University.
-This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a third year undergraduate student from [School of Stat](https://eecs.pku.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/). My research interest includes statistical machine learning, data science, convex optimization, and financial Mathematics.
+I am very fortunate to be advised by [Zhengtao Gui](https://www.XXX.com/) of XXX Lab from [School of Stat](https://www.ustc.edu.cn/), University of Science and Technology of China. I was advised by [Prof. Yuan](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Lanzhou University.
+
 
 A data-driven personal website
 ======
