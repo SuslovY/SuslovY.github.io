@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Stat](https://math.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/). My research interest includes statistical machine learning, deep learning, convex optimization, and financial Mathematics.
-I am very fortunate to be advised by [Zhengtao Gui](https://www.XXX.com/) of XXX Lab from [School of Stat](https://www.ustc.edu.cn/), University of Science and Technology of China. I was advised by [Prof. Yuan](https://XXX.pku.edu.cn/) from [School of Mathematics](https://www.polyu.edu.hk/), The Hongkong Polytechnic University.
+I'm a senior student from [School of Maths and Stat](https://math.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/) and an incoming PhD from [Department of Stat](https://statistics.ucr.edu), University of California, Riverside.My research interest includes optimization and machine learning.
+I am very fortunate to cooperate with [Zhengtao Gui](https://www.XXX.com/) from [Department of Stat](https://www.stat.uci.edu), University of California, Irving. 
 
 
 A data-driven personal website
