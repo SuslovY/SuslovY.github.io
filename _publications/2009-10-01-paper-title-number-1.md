@@ -3,9 +3,9 @@ title: "An introduction on the multivariate normal-ratio distribution"
 collection: Arxiv
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-10-22
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/2310.14306'
 
 ---
 
